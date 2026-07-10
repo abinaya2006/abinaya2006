@@ -1,16 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=360&height=44&lines=yooo" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1200&color=FF7B72&center=true&vCenter=true&width=460&height=50&lines=hey%2C+I'm+Sabi+%E2%9C%A8;welcome+to+my+cozy+corner+of+GitHub;grab+a+cup+of+chai+%E2%98%95" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" alt="cozy desk gif" />
+</p>
 
-IT Student @ Madras Institute of Technology | IIT Madras BS in Data Science | Full-Stack Developer
+### 🪐 About Me
+IT Student @ Madras Institute of Technology · IIT Madras BS in Data Science · Full-Stack Developer
 
-🔭 &nbsp;I'm currently working on **AI-powered developer tools, full-stack web applications, and open-source projects**  
-⚡ &nbsp;Fun fact: **I have 99 tabs open, and yes, I need all of them.**
+🔭 &nbsp;Currently building **AI-powered developer tools, cozy full-stack apps, and open-source things I probably didn't need to build but wanted to**
+🌙 &nbsp;Also known to disappear into TESS light curves hunting for exoplanets
+🎐 &nbsp;JLPT N2 certified — I can argue with my terminal in two languages now
+⚡ &nbsp;Fun fact: **99 tabs open, and yes, every single one is load-bearing**
 
 ### 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -27,26 +31,32 @@ IT Student @ Madras Institute of Technology | IIT Madras BS in Data Science | Fu
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 🔗 Connect With Me
-
+### 🔗 Find Me Around the Internet
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/abinaya-s-24a308311" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/abinaya-s-24a308311" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://abinaya-s-portfolio-lyart.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:abishanmugam2k6@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abinaya2006&show_icons=true&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abinaya2006&layout=compact&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### 🐍 A Snake Eating My Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abinaya2006/abinaya2006/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+</p>
 
+### 📈 Contribution Graph
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abinaya2006&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/abinaya2006">abinaya2006</a></i></p>
+### 🎐 A Little Wisdom, On the House
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+</p>
+
+<p align="center"><i>⭐️ tending this little corner of the internet — <a href="https://github.com/abinaya2006">abinaya2006</a></i></p>
