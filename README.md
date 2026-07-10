@@ -9,10 +9,7 @@
 ### 🪐 About Me
 IT Student @ Madras Institute of Technology · IIT Madras BS in Data Science · Full-Stack Developer
 
-🔭 &nbsp;Currently building **AI-powered developer tools, cozy full-stack apps, and open-source things I probably didn't need to build but wanted to**
-🌙 &nbsp;Also known to disappear into TESS light curves hunting for exoplanets
-🎐 &nbsp;JLPT N2 certified — I can argue with my terminal in two languages now
-⚡ &nbsp;Fun fact: **99 tabs open, and yes, every single one is load-bearing**
+🔭 &nbsp;Currently building **AI-powered developer tools, cozy full-stack apps, and open-source things.
 
 ### 🛠️ Tech Stack
 <p align="left">
