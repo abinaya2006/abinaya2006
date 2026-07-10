@@ -42,8 +42,9 @@ IT Student @ Madras Institute of Technology · IIT Madras BS in Data Science · 
 </p>
 
 ### 🔥 Streak Stats
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=abinaya2006&theme=dracula&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
+</p>
 ### 🐍 A Snake Eating My Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/abinaya2006/abinaya2006/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
