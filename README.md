@@ -55,9 +55,8 @@ IT Student @ Madras Institute of Technology · IIT Madras BS in Data Science · 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abinaya2006&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 🎐 A Little Wisdom, On the House
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=abinaya2006&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
-
 <p align="center"><i>⭐️ tending this little corner of the internet — <a href="https://github.com/abinaya2006">abinaya2006</a></i></p>
