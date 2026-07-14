@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1200&color=FF7B72&center=true&vCenter=true&width=460&height=50&lines=yoo%2C+I'm+Abi+%E2%9C%A8;welcome+to+my+cozy+corner+of+GitHub;grab+a+cup+of+chai+%E2%98%95" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1200&color=FF7B72&center=true&vCenter=true&width=460&height=50&lines=you+found+me;yoo%2C+I'm+Abinaya+%E2%9C%A8;take+a+look+around+%F0%9F%8E%90" alt="Typing headlines" />
 </p>
 
 <p align="center">
@@ -7,9 +7,13 @@
 </p>
 
 ### 🪐 About Me
-IT Student @ Madras Institute of Technology · IIT Madras BS in Data Science · Full-Stack Developer
 
-🔭 &nbsp;Currently building **AI-powered developer tools, cozy full-stack apps, and open-source things.
+IT Student @ Madras Institute of Technology  
+BS in Data Science @ IIT Madras
+
+🔭 Building AI-powered developer tools & cozy full-stack apps  
+🌱 Currently exploring Electron, AI agents, and open source  
+🇯🇵 JLPT N2 • Learning Japanese for fun and opportunities
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -37,26 +41,21 @@ IT Student @ Madras Institute of Technology · IIT Madras BS in Data Science · 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abinaya2006&show_icons=true&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abinaya2006&layout=compact&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abinaya2006&theme=transparent&title_color=f43f5e&icon_color=f43f5e&text_color=c9d1d9&hide_border=true&bg_color=00000000&rank_icon=github&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abinaya2006&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abinaya2006&theme=github_dark" />
 </p>
 
 ### 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abinaya2006&theme=dracula&hide_border=true&short_numbers=true" alt="GitHub Streak" />
 </p>
-### 🐍 A Snake Eating My Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abinaya2006/abinaya2006/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
-</p>
 
 ### 📈 Contribution Graph
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abinaya2006&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://raw.githubusercontent.com/abinaya2006/abinaya2006/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abinaya2006&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-</p>
+
 <p align="center"><i>⭐️ tending this little corner of the internet — <a href="https://github.com/abinaya2006">abinaya2006</a></i></p>
