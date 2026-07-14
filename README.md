@@ -13,7 +13,7 @@ BS in Data Science @ IIT Madras
 
 🔭 Building AI-powered developer tools & cozy full-stack apps  
 🌱 Currently exploring Electron, AI agents, and open source  
-🇯🇵 JLPT N2 • Learning Japanese for fun and opportunities
+
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -58,4 +58,4 @@ BS in Data Science @ IIT Madras
 </p>
 
 
-<p align="center"><i>⭐️ tending this little corner of the internet — <a href="https://github.com/abinaya2006">abinaya2006</a></i></p>
+<!-- <p align="center"><i>⭐️ tending this little corner of the internet — <a href="https://github.com/abinaya2006">abinaya2006</a></i></p> -->
