@@ -43,7 +43,7 @@ IT Student @ Madras Institute of Technology · IIT Madras BS in Data Science · 
 
 ### 🔥 Streak Stats
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=abinaya2006&theme=dracula&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=abinaya2006&theme=dracula&hide_border=true&short_numbers=true" alt="GitHub Streak" />
 </p>
 ### 🐍 A Snake Eating My Contribution Graph
 <p align="center">
@@ -57,6 +57,6 @@ IT Student @ Madras Institute of Technology · IIT Madras BS in Data Science · 
 
 ## 🏆 GitHub Trophies
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=abinaya2006&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=abinaya2006&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 </p>
 <p align="center"><i>⭐️ tending this little corner of the internet — <a href="https://github.com/abinaya2006">abinaya2006</a></i></p>
