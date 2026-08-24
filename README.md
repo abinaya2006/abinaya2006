@@ -1,3 +1,4 @@
+<!--
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1200&color=FF7B72&center=true&vCenter=true&width=460&height=50&lines=you+found+me;yoo%2C+I'm+Abinaya+%E2%9C%A8;take+a+look+around+%F0%9F%8E%90" alt="Typing headlines" />
 </p>
@@ -40,14 +41,15 @@
   </a>
 </p>
 
----
+-->
 
 ## 📈 Activity
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abinaya2006&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/abinaya2006/abinaya2006/output/github-contribution-grid-snake.svg" />
 </p>
+-->
