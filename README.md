@@ -9,7 +9,7 @@
   <img
     src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"
     width="160"
-    alt="cozy desk"
+    alt="github octocat gif"
   />
 </p>
 
@@ -71,14 +71,14 @@ I like taking an idea from **"what if..."** to something you can actually click,
 
 <p align="center">
   <img
-    src="https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=abinaya2006&theme=mac"
+    src="https://github-readme-stats.vercel.app/api?username=abinaya2006&show_icons=true&hide_border=true&bg_color=FFF3EE&title_color=E4545C&icon_color=E4545C&text_color=6E5A55"
     alt="GitHub statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-insight-terminal-asci.vercel.app/svg/top-lang?user=abinaya2006&theme=mac&top=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya2006&layout=compact&hide_border=true&bg_color=FFF3EE&title_color=E4545C&text_color=6E5A55"
     alt="Top languages"
   />
 </p>
@@ -131,13 +131,6 @@ I like taking an idea from **"what if..."** to something you can actually click,
   <a href="mailto:abishanmugam2k6@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=abinaya2006&label=visitors&style=flat"
-    alt="Profile views"
-  />
 </p>
 
 <p align="center">
